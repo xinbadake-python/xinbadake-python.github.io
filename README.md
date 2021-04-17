@@ -1,5 +1,5 @@
-## Welcome to My Pages
-这个网站记录我学习的点点滴滴
+## 欢迎来到我的网站
+
 
 You can use the [editor on GitHub](https://github.com/xinbadake-python/xinbadake-python.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
